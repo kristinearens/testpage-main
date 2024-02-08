@@ -10,6 +10,7 @@ My Interests:  Hiking, Iowa Women's Basketball, Traveling to National Parks
 
 GitHub:  Please take a look at my repositories: <a href="https://github.com/kristinearens"> Kristine Arens GitHub </a>
 
+<a href="https://github.com/kristinearens/Airline-Booking/" Airline Booking Repository </a>
 Thank you for stopping by.
 
 
@@ -18,7 +19,8 @@ Thank you for stopping by.
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another repository](./airline-booking).
-Linke to a website: <a href="https://tippie.uiowa.edu">
+
+Link to a website: <a href="https://tippie.uiowa.edu/" Tippie Website <a>
 
 There should be whitespace between paragraphs.
 
