@@ -8,7 +8,7 @@ About me:  I'm currently a faculty member in the Department of Business Analytic
 
 My Interests:  Hiking, Iowa Women's Basketball, Traveling to National Parks
 
-GitHub:  Please take a look at my repositories: <a href="https://github.com/kaarens"> Kris Arens GitHub </a>
+GitHub:  Please take a look at my repositories: <a href="https://github.com/kristinearens"> Kristine Arens GitHub </a>
 
 Thank you for stopping by.
 
@@ -17,7 +17,8 @@ Thank you for stopping by.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to another repository](./airline-booking).
+Linke to a website: <a href="https://tippie.uiowa.edu">
 
 There should be whitespace between paragraphs.
 
